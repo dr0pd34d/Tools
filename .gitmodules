@@ -1,0 +1,3 @@
+[submodule "onetwopunch"]
+path = onetwopunch
+url = git://github.com/superkojiman/onetwopunch
