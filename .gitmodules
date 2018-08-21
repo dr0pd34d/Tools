@@ -1,3 +1,66 @@
 [submodule "onetwopunch"]
-path = onetwopunch
-url = git://github.com/superkojiman/onetwopunch
+	path = onetwopunch
+	url = https://github.com/superkojiman/onetwopunch.git
+[submodule "PayloadsAllTheThings"]
+	path = PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/SpiderLabs/Responder.git
+[submodule "Sublist3r"]
+	path = Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "crazyDict"]
+	path = crazyDict
+	url = https://github.com/pnigos/crazyDict.git
+[submodule "cansina"]
+	path = cansina
+	url = https://github.com/deibit/cansina.git
+[submodule "CyberChef"]
+	path = CyberChef
+	url = https://github.com/gchq/CyberChef.git
+[submodule "fuzzdb"]
+	path = fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "ds_store_exp"]
+	path = ds_store_exp
+	url = https://github.com/lijiejie/ds_store_exp.git
+[submodule "haveibeenpwned"]
+	path = haveibeenpwned
+	url = https://github.com/houbbit/haveibeenpwned.git
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/CoreSecurity/impacket.git
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
+[submodule "CeWL"]
+	path = CeWL
+	url = https://github.com/digininja/CeWL.git
+[submodule "mpc"]
+	path = mpc
+	url = https://github.com/g0tmi1k/mpc.git
+[submodule "massdns"]
+	path = massdns
+	url = https://github.com/blechschmidt/massdns.git
+[submodule "npdf2john"]
+	path = npdf2john
+	url = https://github.com/kholia/npdf2john.git
+[submodule "ssllabs-scan"]
+	path = ssllabs-scan
+	url = https://github.com/ssllabs/ssllabs-scan.git
+[submodule "wafw00f"]
+	path = wafw00f
+	url = https://github.com/EnableSecurity/wafw00f.git
+[submodule "wifite2"]
+	path = wifite2
+	url = https://github.com/derv82/wifite2.git
+[submodule "sslyze"]
+	path = sslyze
+	url = https://github.com/nabla-c0d3/sslyze.git
+[submodule "webscreenshot"]
+	path = webscreenshot
+	url = https://github.com/maaaaz/webscreenshot.git
